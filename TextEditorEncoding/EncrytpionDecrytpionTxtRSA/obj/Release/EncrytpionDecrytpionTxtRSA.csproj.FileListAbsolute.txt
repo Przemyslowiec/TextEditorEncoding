@@ -1,0 +1,8 @@
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\bin\Release\EncrytpionDecrytpionTxtRSA.exe.config
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\bin\Release\EncrytpionDecrytpionTxtRSA.exe
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\bin\Release\EncrytpionDecrytpionTxtRSA.pdb
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\obj\Release\EncrytpionDecrytpionTxtRSA.Form1.resources
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\obj\Release\EncrytpionDecrytpionTxtRSA.Properties.Resources.resources
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\obj\Release\EncrytpionDecrytpionTxtRSA.csproj.GenerateResource.Cache
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\obj\Release\EncrytpionDecrytpionTxtRSA.exe
+D:\Programy\C#\EncrytpionDecrytpionTxtRSA\EncrytpionDecrytpionTxtRSA\obj\Release\EncrytpionDecrytpionTxtRSA.pdb

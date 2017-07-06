@@ -1,0 +1,3 @@
+D:\Programy\Repozytorium\TextEditorEncoding\TextEditorEncoding\EncrytpionDecrytpionTxtRSA\bin\Debug\EncrytpionDecrytpionTxtRSA.exe.config
+D:\Programy\Repozytorium\TextEditorEncoding\TextEditorEncoding\EncrytpionDecrytpionTxtRSA\obj\Debug\EncrytpionDecrytpionTxtRSA.exe
+D:\Programy\Repozytorium\TextEditorEncoding\TextEditorEncoding\EncrytpionDecrytpionTxtRSA\obj\Debug\EncrytpionDecrytpionTxtRSA.pdb
